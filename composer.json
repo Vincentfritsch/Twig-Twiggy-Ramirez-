@@ -1,0 +1,14 @@
+{
+    "name": "vincent/twing2",
+    "authors": [
+        {
+            "name": "Vincent",
+            "email": "fritsch_vincent@hotmail.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    },"autoload":{
+    "psr-4": {"App\\View\\" : "src/View"}
+}
+}
